@@ -1,0 +1,16 @@
+<!-- 
+Online HTML, CSS and JavaScript editor to run code online.
+-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta name="description" content="this is description">
+    <meta name="keywords" content="html html tutorial,web development">
+    <meta name="robots" content="INDEX,FOLLOW">
+    <link rel="stylesheet" href="style.css" />
+    <title>Browser</title>
+    <!--this is how I include css-->
+    <link rel="stylesheet" href="shrestha.css">
+    <!--this is how I include javascript-->
+    <script src="shrestha.js">
